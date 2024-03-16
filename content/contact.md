@@ -8,4 +8,5 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/mattfu25/hugo-mock-landing-page/issues/new) on GitHub.
+[Open an issue](https://github.com/mattfu25/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
+
