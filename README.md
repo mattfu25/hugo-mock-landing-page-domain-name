@@ -12,3 +12,5 @@ Build the static website files by running the hugo command with flags for includ
 Publish the generated static files to the gh-pages branch of the repository, which GitHub Pages uses to host and serve the website.
 Optionally, the workflow can be configured to use a custom domain for the published site instead of the default GitHub Pages URL.
 The workflow ensures an automated way to rebuild and republish the Hugo website whenever changes are made to the main codebase. It leverages GitHub's hosting capabilities for static sites by pushing the compiled files to the gh-pages branch.
+
+Updated domain name.
