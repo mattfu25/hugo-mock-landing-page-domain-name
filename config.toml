@@ -1,4 +1,4 @@
-baseURL = 'https://mattfu25.github.io/hugo-mock-landing-page/'
+baseURL = 'https://mattfu25.github.io/hugo-mock-landing-page-autodeployed/'
 title = "Dinner Table"
 author = "Matt Fu"
 copyright = "Dinner Table"
